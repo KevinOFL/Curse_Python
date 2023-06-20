@@ -1,0 +1,16 @@
+Index: Python_exercicios/Ex006.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#Desafio dobro, triplo e raiz.\r\n\r\nnum = int(input('Digite um número: '))\r\n\r\nprint('O dobro de {} é {}\\no Triplo é {}\\ne a raiz dele é {}.'.format(num, num*2, num*3, num**(1/2)))
+===================================================================
+diff --git a/Python_exercicios/Ex006.py b/Python_exercicios/Ex006.py
+--- a/Python_exercicios/Ex006.py	
++++ b/Python_exercicios/Ex006.py	
+@@ -2,4 +2,4 @@
+ 
+ num = int(input('Digite um número: '))
+ 
+-print('O dobro de {} é {}\no Triplo é {}\ne a raiz dele é {}.'.format(num, num*2, num*3, num**(1/2)))
+\ No newline at end of file
++print('O dobro de {} é {}\no Triplo é {}\ne a raiz dele é {:.2f}.'.format(num, num*2, num*3, num**(1/2)))
+\ No newline at end of file
