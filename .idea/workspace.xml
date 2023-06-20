@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd6e3eae-b4f7-4621-8923-a40063fd922f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Python_exercicios/Ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_exercicios/Ex012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex013.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RTbeRWEf8VHBENXmr28GIUCp81" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
