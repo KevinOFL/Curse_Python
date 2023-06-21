@@ -11,7 +11,7 @@ convCels2 = celsius2 + 273.15
 convKelv = kelvin - 273.15
 
 print('-'*50)
-print('Celsius ({}°C) para Fahrenheit é {}°F'.format(celsius1, convFanr),'\n','-'*50)
-print('Fahrenheit ({}°F) para Celsius é {}°C'.format(fahrenheit, convCels1),'\n','-'*50)
-print('Celsius ({}°C) para Kelvin é {}°K'.format(celsius2, convCels2),'\n','-'*50)
-print('Temperatura absoluta em Kelvin ({}°K) para Celsius é {}°C'.format(kelvin, convKelv),'\n','-'*50)
+print('Celsius ({:.2f}°C) para Fahrenheit é {:.2f}°F'.format(celsius1, convFanr),'\n','-'*50)
+print('Fahrenheit ({:.2f}°F) para Celsius é {:.2f}°C'.format(fahrenheit, convCels1),'\n','-'*50)
+print('Celsius ({:.2f}°C) para Kelvin é {:.2f}°K'.format(celsius2, convCels2),'\n','-'*50)
+print('Temperatura absoluta em Kelvin ({:.2f}°K) para Celsius é {:.2f}°C'.format(kelvin, convKelv),'\n','-'*50)
