@@ -1,6 +1,6 @@
-#Desafio é Santos ou não
+#Desafio é Santo ou não
 
-cidade = input('Digite o nome de uma cidade: ')
+cidade = str(input('Digite o nome de uma cidade: '))
 
-print('Essa cidade se chama Santos?\n{}'.format('Santos' in cidade))
-#Ultilzei o operador in para me dar True ou False se é ou não Santos.
+print('Essa cidade se chama Santos?\n{}'.format(cidade[:5] == 'Santo' or 'santo'))
+#Ultilzei o operador in para me dar True ou False se é ou não Santo.
