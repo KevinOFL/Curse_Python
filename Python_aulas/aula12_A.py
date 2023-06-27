@@ -15,4 +15,3 @@ else:
     print('Seu nome é bem comun')
 print('Tenha um bom dia {}{}{} !'.format('\033[31m',nome, '\033[m'))
 
-print(35 / 4)
