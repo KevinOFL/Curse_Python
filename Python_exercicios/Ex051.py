@@ -1,7 +1,7 @@
 #Desafio PA
 
 print('=-'*36)
-print(' '*30,'\033[7mProgressão Aritimética (PA)\033[m')
+print(' '*22,'\033[7mProgressão Aritimética (PA)\033[m')
 print('=-'*36)
 
 termo = int(input('Digite o primeiro termo: '))
