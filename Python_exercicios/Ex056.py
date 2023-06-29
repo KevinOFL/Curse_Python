@@ -9,6 +9,7 @@ femIdade = 0
 soma = 0
 
 for c in range(0, 4):
+    print('-=-=-={}ª PESSOA=-=-=-'.format(c))
     nome = input('Digite seu nome: ')
     idade = int(input('Digite a sua idade: '))
     sexo = int(input('''Qual seu sexo:
