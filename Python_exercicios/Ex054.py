@@ -11,7 +11,7 @@ maior = 0
 menor = 0
 
 for c in range(0, 7):
-    dataUsu = int(input('Digite seu ano de nascimento: '))
+    dataUsu = int(input('Digite seu ano de nascimento da {}ª pessoa: '.format(c)))
     somaIdade = atual - dataUsu
     if somaIdade >= 18:
         maior += 1
