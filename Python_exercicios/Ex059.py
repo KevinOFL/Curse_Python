@@ -1,7 +1,7 @@
 #Desafio menu de operações.
 
 print('=-'*36)
-print(' '*26,'\033[7;1mMneu de operações\033[m')
+print(' '*26,'\033[7;1m Mneu de operações \033[m')
 print('=-'*36)
 
 n1 = int(input('Digite um número: '))
