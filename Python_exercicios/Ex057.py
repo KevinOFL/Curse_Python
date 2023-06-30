@@ -7,7 +7,7 @@ print('=-'*36)
 sexo = ''
 
 while sexo != 'm' and sexo != 'f':
-    sexo = str(input('Qual o seu sexo? [M/f]'))
+    sexo = str(input('Qual o seu sexo? [M/F]')).upper()
 
 print('=-'*36)
 
