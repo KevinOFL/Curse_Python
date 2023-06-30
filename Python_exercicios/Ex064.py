@@ -8,6 +8,8 @@ n = 0
 contNum = 0
 soma = 0
 
+print('=-'*36)
+
 while n != 999:
     n = int(input('''Digite um número: 
     Para parar digite 999
@@ -19,3 +21,5 @@ while n != 999:
 print('''Você parou o Loop
 Quantidade de núemros digitados \033[34;1m{}\033[m
 A soma total desses números foi \033[34;1m{}\033[m'''.format(contNum - 1, soma - 999))
+
+print('=-'*36)
