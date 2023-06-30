@@ -11,7 +11,7 @@ opc = 0
 
 print('=-'*36)
 
-while opc != 1 and opc != 2 and opc != 3 and opc != 4 or opc == 5:
+while opc != 5:
     opc = int(input('''---------- Menu ----------
     [1] Somar
     [2] Multiplicar
@@ -36,6 +36,8 @@ while opc != 1 and opc != 2 and opc != 3 and opc != 4 or opc == 5:
         n2 = int(input('Digite outro número: '))
     if opc == 5:
         break
+    else:
+        print('Opção inválida!!')
 
 print('Tenha um otimo dia!')
 
