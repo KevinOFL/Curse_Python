@@ -6,18 +6,15 @@ print('=-'*36)
 
 termo = int(input('Digite o primeiro termo: '))
 razao = int(input('Digite a razão: '))
-
+primeiro = termo
 print('=-'*36)
 
-cont = 0
-soma = termo + razao
+cont = 1
 
 print('Os 10 primeiros termos dessa progressão: ')
-print('\033[34;1m{}\033[m'.format(termo))
 while cont != 9:
-    print('\033[34;1m{}\033[m'.format(soma))
-    termo = soma
-    soma = termo + razao
+    print('\033[34;1m{}\033[m -> '.format(termo), end='')
+    termo += razao
     cont += 1
 
-print('=-'*36)
+print('\n','=-'*36)
