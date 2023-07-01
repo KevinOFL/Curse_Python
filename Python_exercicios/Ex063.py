@@ -10,6 +10,7 @@ t1 = 0
 t2 = 1
 cont = 0
 
+print('=-'*36)
 print('{} -> {} '.format(t1, t2), end='')
 
 while cont <= n1:
@@ -19,4 +20,5 @@ while cont <= n1:
     t2 = t3
     cont += 1
 
-print('FIM')
+print('\n','FIM')
+print('=-'*36)
