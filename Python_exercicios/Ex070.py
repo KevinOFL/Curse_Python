@@ -4,7 +4,7 @@ print('=-'*36)
 print(' '*27,'\033[7;1m Estatistica de venda de produtos \033[m')
 print('=-'*36)
 
-aux = contM = preco = soma 0
+aux = contM = preco = soma = 0
 auxNome = nomePro = ''
 op = 'S'
 
