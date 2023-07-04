@@ -1,7 +1,7 @@
 #Desafio campeonato brasileiro de futebol
 
 print('=-'*36)
-print(' '*27,'\033[7;1m Campeonato brasileiro de futebol \033[m')
+print(' '*18,'\033[7;1m Campeonato brasileiro de futebol \033[m')
 print('=-'*36)
 
 times_brasileirao = ("Flamengo", "Internacional", "Atlético Mineiro", "São Paulo",
