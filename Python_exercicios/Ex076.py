@@ -22,6 +22,6 @@ preço = tupla_produtos[0][1]
 for c in tupla_produtos:
     nome = c[0]
     preço = c[1]
-    print(f'{nome} R${preço}')
+    print(f'{nome:.<30}R${preço}')
 
 print('=-'*36)
