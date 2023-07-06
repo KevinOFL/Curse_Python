@@ -5,7 +5,7 @@ print(' '*19,'\033[7;1m - Vários Valores numéricos  - \033[m')
 print('=-'*36)
 
 valores = list()
-num = cont = aux = 0
+num = 0
 
 while True:
     num = input("Digite um valor numérico (ou 'sair' para encerrar): ")
@@ -25,4 +25,3 @@ valores.sort()
 print("Valores únicos digitados, em ordem crescente:")
 for valor in valores:
     print(valor, end=' - ')
-
