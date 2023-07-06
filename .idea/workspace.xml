@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd6e3eae-b4f7-4621-8923-a40063fd922f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_aulas/aula17_A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex078.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Aula__PY",
+    "git-widget-placeholder": "Exercicio__PY",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/"
   }
