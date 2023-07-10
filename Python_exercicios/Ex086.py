@@ -17,8 +17,9 @@ print('=-'*36)
 
 print('''\033[7m     MATRIZ   \033[m''')
 for c in matriz:
-    for x in matriz:
-        print(f'''[ {x[1]} ]''', end='')
-    print()
+    print('[', end=' ')
+    for x in c:
+        print(f'{x}',end=' ')
+    print(']')
 
 print('=-'*36)
