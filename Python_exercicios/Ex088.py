@@ -25,6 +25,7 @@ while True:
 #       if len(todo) == op:  # Verifica se foram gerados o número solicitado de jogos
 #           break
 
+        palpites.sort()
         todo.append(palpites)
     break
 
