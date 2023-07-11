@@ -41,22 +41,29 @@ while True:
     print('=-' * 36)
     print(' ' * 22, '\033[7;1m - Boletim Escolar  - \033[m')
     print('=-' * 36)
+    sleep(1.5)
     for boletim in lista:
         print(f'Nome: {boletim[0]} | Média: {boletim[3]}')
-        sleep(0.5)
+        sleep(1.0)
 
     #Codigo para procurar as notas de algum aluno especifico cadastrado.
     while True:
         aluno = input('Digite o nome do aluno para ver as notas ou "\033[31msair\033[m" para finalizar: ')
         if aluno.lower() == 'sair':
+            sleep(1)
+            print('=-' * 36)
+            print(' ' * 22, '\033[7;1m - Boletim Finalizado  - \033[m')
+            print('=-' * 36)
             break
         encontrado = False
         for boletim in lista:
             if aluno.lower() == boletim[0].lower():
+                sleep(1.5)
                 print(f'Nome: \033[34m{boletim[0]}\033[m | 1ª Nota: \033[34m{boletim[1]}\033[m | 2ª Nota: \033[34m{boletim[2]}\033[m')
                 encontrado = True
                 break
         if not encontrado:
+            sleep(1.5)
             print('Aluno não encontrado!')
 
     #Opção para cadastrar mais alunos.
@@ -66,5 +73,3 @@ while True:
 
     lista.clear()
     cont = 0
-
-
