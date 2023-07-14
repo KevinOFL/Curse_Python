@@ -33,6 +33,7 @@ ou digite "\033[31msair\033[m" para finalizar: ''')
 linha()
 
 print(f'''          - RESULTADO -
+Foram adicionados {len(lista)} valores.
 O maior número adicionado foi \033[34m{maior(lista)}\033[m.''')
 
 linha()
