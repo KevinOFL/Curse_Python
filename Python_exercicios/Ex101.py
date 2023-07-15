@@ -6,15 +6,15 @@ from time import sleep
 
 # Funções
 def apresentação():
-    """Função tipo print de aresentação de titulo do programa"""
+    """-> Função tipo print de aresentação de titulo do programa"""
     print('=-'*80)
     print(' '*61, '- Avaliação de voto -')
     print('=-'*80)
 def linha():
-    """Função tipo print de linhas para customização do programa."""
+    """-> Função tipo print de linhas para customização do programa."""
     print('--'*80)
 def avaliaVoto():
-    """Função de verificação de voto sem parâmetros.
+    """-> Função de verificação de voto sem parâmetros.
     Ultiliza das variaveis:
     ano, idade, ensino e titulo para efetuar a veficação com if e elif.
     """
