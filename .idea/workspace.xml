@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd6e3eae-b4f7-4621-8923-a40063fd922f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex112/Ex112_Prog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex112/Ex112_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex112/ultilidades/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex112/ultilidades/dado/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex112/ultilidades/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex113/Ex113_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex113/Ex113_prog.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,16 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Exercicio__PY",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "F:/Curso_Python/Curse_Python/Python_exercicios"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Exercicio__PY&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Curso_Python/Curse_Python/Python_exercicios&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Curso_Python\Curse_Python\Python_exercicios" />
