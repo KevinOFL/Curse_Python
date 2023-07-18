@@ -11,26 +11,30 @@ def linha():
     """-> Função tipo print de linha para customização do programa."""
     print('--' * 80)
 
-def aumentar(num):
+def aumentar(num, taxa):
     """Aumenta 25% do valor original.
     :param num: Valor original que será somado.
     """
-    return num + (num * 0.25)
+    res = num + (num * taxa/100)
+    return res
 
-def diminuir(num):
-    """Diminui 35% do valor original.
+def diminuir(num, taxa):
+    """Diminui o valor original.
     :param num: Valor original que será subtraido.
     """
-    return  num - (num * 0.35)
+    res = num - (num * taxa/100)
+    return  res
 
 def dobro(num):
     """Dobra o valor original.
     :param num: Valor original que será dobrado.
     """
-    return  num * 2
+    res =  num * 2
+    return res
 
 def metade(num):
     """Divide o valor original.
     :param num: Valor original que será dividido.
     """
-    return num / 2
+    res = num / 2
+    return res
