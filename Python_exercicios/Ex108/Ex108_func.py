@@ -13,7 +13,7 @@ def linha():
     print('--' * 80)
 
 def aumentar(num = 0, taxa = 0):
-    """Aumenta 25% do valor original.
+    """Aumenta o valor original.
     :param num: Valor original que será somado.
     """
     res = num + (num * taxa/100)
