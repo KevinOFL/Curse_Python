@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd6e3eae-b4f7-4621-8923-a40063fd922f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_aulas/aula21_modulo1/aula21_A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_aulas/aula21_modulo1/aula21_B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_aulas/aula21_uteis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_aulas/aula21_uteis/cores/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_aulas/aula21_uteis/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_aulas/aula21_uteis/numeros/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_aulas/aula21_uteis/numeros/funções.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_aulas/aula21_uteis/strings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_aulas/aula22_A.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
