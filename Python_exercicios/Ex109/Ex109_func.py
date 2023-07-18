@@ -1,5 +1,5 @@
-# Modulo de funções do exercicio 108
-# Ultilizamos um copia e cola do exercicio 107 para não mudar o código de lá.
+# Modulo de funções do exercicio 109
+# Reutilizando arquivos do exercicio 108 para não mudar o código de lá.
 
 def apresentação():
     """-> Função tipo print de aresentação de titulo do programa"""

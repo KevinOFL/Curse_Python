@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd6e3eae-b4f7-4621-8923-a40063fd922f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex110/Ex110_Prog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex110/Ex110_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex111/Ex111_Prog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_exercicios/Ex111/Ex111_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_exercicios/Ex108/Ex108_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_exercicios/Ex108/Ex108_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_exercicios/Ex109/Ex109_Prog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_exercicios/Ex109/Ex109_Prog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_exercicios/Ex109/Ex109_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_exercicios/Ex109/Ex109_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_exercicios/Ex110/Ex110_Prog.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_exercicios/Ex110/Ex110_Prog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_exercicios/Ex110/Ex110_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_exercicios/Ex110/Ex110_func.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
