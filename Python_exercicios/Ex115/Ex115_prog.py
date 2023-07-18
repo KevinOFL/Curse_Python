@@ -3,6 +3,3 @@
 from Ex115_func import sistema
 
 sistema()
-
-
-
