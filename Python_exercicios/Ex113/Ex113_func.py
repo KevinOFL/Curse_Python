@@ -14,14 +14,18 @@ def leiaInt(i):
     """
     while True:
         try:
-            perguntaInt = input(f'{i}')
-            perguntaInt.strip().isnumeric()
-            return int(perguntaInt)
-            break
+            perguntaInt = int(input(f'{i}'))
         except (ValueError, TypeError):
             print(f'Você digitou um valor inválido! Tente novamente.')
+            continue
         except Exception as erro:
             print(f'O erro foi {erro.__class__}')
+            continue
+        except KeyboardInterrupt:
+            print('O usuário preferiu não digitar esse valor: ')
+            return  0
+        else:
+            return perguntaInt
 
 def leiaFloat(i):
     """Função leiaFloat é uma validadora da entrada tipo float.
@@ -31,11 +35,15 @@ def leiaFloat(i):
     """
     while True:
         try:
-            perguntaFloat = input(f'{i}')
-            perguntaFloat.replace(',', '.').strip()
-            return float(perguntaFloat)
-            break
+            perguntaFloat = float(input(f'{i}').strip())
         except (ValueError, TypeError):
             print(f'Você digitou um valor inválido! Tente novamente.')
+            continue
         except Exception as erro:
             print(f'O erro foi {erro.__class__}')
+            continue
+        except KeyboardInterrupt:
+            print('O usuário preferiu não digitar esse valor: ')
+            return  0
+        else:
+            return perguntaFloat
