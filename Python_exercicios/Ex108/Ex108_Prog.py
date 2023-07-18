@@ -11,8 +11,8 @@ t = int(input('Digite a taxa: '))
 Ex108_func.linha()
 
 print(f'''              - - RESULTADO - -
-Aumentamos 25% do valor original {moeda(n)} -> {moeda(Ex108_func.aumentar(n, t))}.
-Diminuimos 35% do valor original {moeda(n)} -> {moeda(Ex108_func.diminuir(n, t))}.
+Aumentamos {t}% do valor original {moeda(n)} -> {moeda(Ex108_func.aumentar(n, t))}.
+Diminuimos {t}% do valor original {moeda(n)} -> {moeda(Ex108_func.diminuir(n, t))}.
 Dobramos o valor original {moeda(n)} -> {moeda(Ex108_func.dobro(n))}.
 Dividimos o valor orinal {moeda(n)} -> {moeda(Ex108_func.metade(n))}.''')
 
