@@ -12,6 +12,6 @@
 
 ## Notion - Python
  * Aqui fica minhas anotações sobre Python e podem ser ultilizadas como guia da linguagem.
- * [Meu Notion Python](https://www.notion.so/POO-Python-91c664c9432347468d27b63da7f193ed?pvs=4)
+ * [Meu Notion Python](https://profuse-catboat-c67.notion.site/Python-91c664c9432347468d27b63da7f193ed?pvs=4)
 
 ## Thank for you attention!! 
